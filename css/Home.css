@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background: url(../img/bg.jpg) no-repeat;
+    background-size: 100%;
+    width: auto;
+    font-family: "Sacramento";
+    font-weight: bolder;
+    font-size: 60px;
+
+}
+
+#pfp{
+    max-width:100px;
+    width:100px;
+    border-radius:50%;
+
+}
+#me{
+    font-size: 40px;
+    font-family: "Sacramento";
+    text-decoration: transparent;
+}
+img{
+    padding: 50px;
+    background-size: contain;
+
+}
+body{
+    text-align: center;
+    background: linear-gradient(to right,skyblue,violet) 
+}
+#gettt {
+    font-family: "Times New Roman";
+    padding: 10;
+    font-size: 40px;
+}
+p{
+     
+    color:black;
+}
+h2{
+     
+    padding-bottom:25px; 
+}
+
+.h{
+    margin-top: 30px;
+    font-size: 30px;
+}
+.v{
+    margin-bottom: 30px;
+    padding: 0px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.s{
+    margin-top: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+#fti{
+    padding-top: 20px;
+
+}
+#cm{
+    margin: 10px;
+}
+.icons {
+    background: linear-gradient(to right,teal,lightgreen);
+    height: 15vh; 
+
+}
+.icon1 {
+    padding: 0px;
+}
+#VB{
+    padding: 0px;
+}
+#FG{
+    padding: 0px;
+}
+#cont{
+    margin-left: 500px;
+    margin-right: 500px;
+}
